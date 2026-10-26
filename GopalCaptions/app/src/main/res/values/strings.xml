@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gopal Captions</string>
+    <string name="version">ਵਰਜ਼ਨ %1$s</string>
+    <string name="checking">ਅੱਪਡੇਟ ਚੈੱਕ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="new_version">ਨਵਾਂ ਵਰਜ਼ਨ ਮਿਲਿਆ (%1$d)</string>
+    <string name="up_to_date">ਵਰਜ਼ਨ %1$s — ਐਪ ਨਵੀਂ ਹੈ</string>
+    <string name="btn_check">ਅੱਪਡੇਟ ਚੈੱਕ ਕਰੋ</string>
+    <string name="btn_update">ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ</string>
+    <string name="downloading">ਡਾਊਨਲੋਡ ਹੋ ਰਿਹਾ ਹੈ… %1$d%%</string>
+    <string name="downloaded">ਡਾਊਨਲੋਡ ਹੋ ਗਿਆ, ਇੰਸਟਾਲ ਕਰੋ</string>
+    <string name="download_failed">ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੋਇਆ, ਇੰਟਰਨੈੱਟ ਚੈੱਕ ਕਰੋ</string>
+    <string name="btn_pick_video">ਵੀਡੀਓ ਚੁਣੋ (ਜਲਦੀ ਆ ਰਿਹਾ ਹੈ)</string>
+</resources>
